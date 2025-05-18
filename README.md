@@ -23,3 +23,9 @@ Terminal ou prompt de comando
 ## 📌 Licença
 
 Este projeto é de uso livre para fins educacionais e pessoais. Nenhuma licença formal foi aplicada.
+
+---
+
+## 📝 Requerimentos
+
+Biblioteca: Colorama
